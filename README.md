@@ -1,2 +1,2 @@
-# zadanie_17_4
+# ExpressJS-Static-files
 Serwowanie plików statycznych
